@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApplication1/WebApplication1/obj/Debug
+/WebApplication1/packages/AutoMapper.6.0.2
+/WebApplication1/WebApplication1/bin
